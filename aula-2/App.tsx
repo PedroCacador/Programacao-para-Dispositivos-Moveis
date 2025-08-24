@@ -8,7 +8,6 @@ export default function App() {
   return (
     <View style={styles.container}>
       <SafeAreaView>
-        <Text>Lista de itens muito fera!</Text>
         <AddItem />
       </SafeAreaView>
     </View>
