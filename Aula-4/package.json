@@ -14,7 +14,9 @@
     "react": "19.0.0",
     "react-native": "0.79.6",
     "expo-battery": "~9.1.4",
-    "expo-checkbox": "~4.1.4"
+    "expo-checkbox": "~4.1.4",
+    "expo-haptics": "~14.1.4",
+    "react-native-safe-area-context": "5.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
